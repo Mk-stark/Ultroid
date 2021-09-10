@@ -38,7 +38,7 @@ async def _(e):
                 res,
                 caption="`" + kk.split("/")[-1] + "`",
                 force_document=True,
-                thumb="resources/extras/ultroid.jpg",
+                thumb="resources/extras/serieshood.jpg",
             )
             c += 1
         except Exception as er:
